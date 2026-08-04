@@ -30,6 +30,7 @@
 ||hypersync.xyz^
 ||ipoweres.com^
 ||lava.build^
+||llamarpc.com^
 ||malekos.pro^
 ||markdli.pro^
 ||nodies.app^
