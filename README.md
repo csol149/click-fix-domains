@@ -1,2 +1,2 @@
-# click-fix-domains
-Click-fix domains observed to deliver payloads
+# Malicious-domains
+Click-fix and other malicious domains observed to deliver payloads
