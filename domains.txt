@@ -1,24 +1,35 @@
-! Title: My Malicious Domain Blocklist
+! Title: Malicious Domain Blocklist
 ! Description: Blocks known malicious domains
-! Version: 2026-08-03
+! Version: 2026-08-04
 
+! Click-Fix domains
 ||1rpc.io^
+||bacon-rumors.xyz^
+||base.org^
+||blastapi.io^
+||blazerpro.pro^
+||blockrazor.xyz^
+||bnbchain.org^
+||lava.build^
+||pocket.network^
+||polygon.community^
+||publicnode.com^
+||quiknode.pro^
+||sdntds.shop^
+||zooparkko.com^
+
+
+! unknown payload
 ||algo2nest.info^
 ||alkociferblat.cc^
 ||ankr.com^
 ||apidevst.com^
 ||auth-id-browser.info^
-||bacon-rumors.xyz^
-||base.org^
 ||beroniw.com^
 ||besthappyfamily.com^
 ||blacksaltys.com^
 ||blackshelter.org^
-||blastapi.io^
-||blazerpro.pro^
-||blockrazor.xyz^
 ||blessedwirrow.org^
-||bnbchain.org^
 ||captioto.com^
 ||clouderfaster.cc^
 ||cptoptious.com^
@@ -29,21 +40,14 @@
 ||goodpersonofourcentury.com^
 ||hypersync.xyz^
 ||ipoweres.com^
-||lava.build^
 ||llamarpc.com^
 ||malekos.pro^
 ||markdli.pro^
 ||nodies.app^
 ||objmapper.com^
 ||onfinality.io^
-||pocket.network^
-||polygon.community^
-||publicnode.com^
-||publicnode.com^
-||quiknode.pro^
 ||rednosehorse.com^
 ||relaxation-seed.xyz^
-||sdntds.shop^
 ||skillboxultra.live^
 ||subquery.network^
 ||tatum.io^
@@ -52,4 +56,3 @@
 ||thewrayforward.com^
 ||waysmakeyourlifebetter.com^
 ||zen.claims^
-||zooparkko.com^
