@@ -16,6 +16,7 @@
 ||blackshelter.org^
 ||blastapi.io^
 ||blazerpro.pro^
+||blockrazor.xyz^
 ||blessedwirrow.org^
 ||bnbchain.org^
 ||captioto.com^
@@ -49,4 +50,5 @@
 ||therpc.io^
 ||thewrayforward.com^
 ||waysmakeyourlifebetter.com^
+||zen.claims^
 ||zooparkko.com^
