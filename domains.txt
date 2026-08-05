@@ -1,6 +1,6 @@
 ! Title: Malicious Domain Blocklist
 ! Description: Blocks known malicious domains
-! Version: 2026-08-04
+! Version: 2026-08-05
 
 ! Click-Fix domains
 ||1rpc.io^
