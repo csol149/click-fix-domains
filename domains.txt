@@ -10,6 +10,7 @@
 ||blazerpro.pro^
 ||blockrazor.xyz^
 ||bnbchain.org^
+||enter-pverif-code.info^
 ||lava.build^
 ||pocket.network^
 ||polygon.community^
