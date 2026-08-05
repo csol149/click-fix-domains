@@ -6,6 +6,7 @@
 ||1rpc.io^
 ||bacon-rumors.xyz^
 ||base.org^
+||binance.org^
 ||blastapi.io^
 ||blazerpro.pro^
 ||blockrazor.xyz^
