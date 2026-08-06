@@ -47,6 +47,8 @@
 ||getfix.win^
 ||goodpersonofourcentury.com^
 ||hypersync.xyz^
+||ipfs.io^
+||inbrowser.link^
 ||ipoweres.com^
 ||llamarpc.com^
 ||malekos.pro^
