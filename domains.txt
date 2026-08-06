@@ -1,6 +1,6 @@
 ! Title: Malicious Domain Blocklist
 ! Description: Blocks known malicious domains
-! Version: 2026-08-05
+! Version: 2026-08-06
 
 ! Click-Fix domains
 ||1rpc.io^
@@ -12,8 +12,11 @@
 ||blockrazor.xyz^
 ||bnbchain.org^
 ||dntds.shop^
+||dhdjisksnsbhssu.com^
+||eotoatotlasldkd.com^
 ||enter-pverif-code.info^
 ||lava.build^
+||loerpos.pro^
 ||pocket.network^
 ||polygon.community^
 ||publicnode.com^
