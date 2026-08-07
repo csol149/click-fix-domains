@@ -20,6 +20,7 @@
 ||pocket.network^
 ||polygon.community^
 ||publicnode.com^
+||telemetras.pro^
 ||quiknode.pro^
 ||sdntds.shop^
 ||senterprise2026.com^
