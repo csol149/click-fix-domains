@@ -57,6 +57,7 @@
 ||nodies.app^
 ||objmapper.com^
 ||onfinality.io^
+||packedbrick.com^
 ||rednosehorse.com^
 ||relaxation-seed.xyz^
 ||siege-close.com^
