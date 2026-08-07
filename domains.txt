@@ -1,6 +1,6 @@
 ! Title: Malicious Domain Blocklist
 ! Description: Blocks known malicious domains
-! Version: 2026-08-06
+! Version: 2026-08-07
 
 ! Click-Fix domains
 ||1rpc.io^
@@ -65,5 +65,6 @@
 ||tenderly.co^
 ||therpc.io^
 ||thewrayforward.com^
+||versionpi81.icu^
 ||waysmakeyourlifebetter.com^
 ||zen.claims^
